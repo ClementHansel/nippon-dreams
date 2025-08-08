@@ -33,7 +33,7 @@ export const HeroSection = () => {
           </div>
         </div>
         
-        <JapaneseButton variant="hero" size="xl" className="animate-pulse">
+        <JapaneseButton variant="hero" size="xl" className="animate-pulse-slow">
           🎌 Saya Mau Mulai Belajar Sekarang
         </JapaneseButton>
       </div>
